@@ -1,0 +1,99 @@
+.header{
+background: url(../imagenes/ima.png) no-repeat center;
+background-size: 100%;
+background-attachment: cover;
+background-repeat: no-repeat;
+padding-bottom: 70px;
+}
+
+.mod ul li a{
+  font-size: 20px !important;
+  text-align: center !important;
+  margin-left:100px;
+  margin-right:100px;
+}
+
+.navbar{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.navbar-nav .mr-auto {
+  flex: 1;
+  margin: auto !important;
+  display: flex;
+  justify-content: space-around;
+  text-transform: uppercase;
+}
+
+h1{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+button{
+  margin-top: 50px; margin-bottom: 50px;
+}
+
+.header2 {
+
+background-size: 100%;
+background-attachment: cover;
+background-repeat: no-repeat;
+}
+
+.header2 .descri{
+  font-size: 30px;
+}
+
+#habilidades{margin-top: 30px;
+font-size: 30px;
+}
+
+#habilidades .jumbotron{
+
+  height: 400px;
+}
+#habilidades .jumbotron i{background-color: #014A7B;
+  color: white !important;
+  font-size: 80px;
+  padding: 20px;
+}
+.sobremi{
+  background: #E0E0E0;
+}
+
+
+.header3 {
+  background: url(imagenes/10a.png) no-repeat center;
+    background-size: 100%;
+  background-attachment: fixed;
+}
+
+
+.portfolio{
+  background: #014A7B;
+}
+
+footer{
+  width: 100%; background-color: white !important;
+}
+
+i{
+  color: grey;
+  font-size: 40px;
+  padding-top: 50px;
+
+}
+
+#paquetes {margin-top: 30px;}
+
+.header4{
+  background-color: #014A7B;
+  min-height:100%;
+  padding-bottom: 50px;
+  color: white;}
+
+
+#olis a{
+  color: white;
+}
