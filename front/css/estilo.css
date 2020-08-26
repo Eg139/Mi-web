@@ -1,0 +1,13 @@
+#im1{float: left; margin: 10px;}
+
+#im2{float: right; margin: 10px;}
+
+#im3{float: left;}
+
+#t1{clear: both;}
+
+#t2{clear: both;}
+
+#t3{clear: both;}
+
+body{background-color: white;}

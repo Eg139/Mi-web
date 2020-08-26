@@ -28,10 +28,8 @@
             <div class="row">
               <div class="col-12">
                 <h3>Front-end paquetes turisticos</h3>
-                <p>Proyecto Full Stack desarrollado en Laravel con panel de administrador, gestor de usuarios, permisos y ABM de paquetes turísticos.</p>
-                <h3><strong>Usuario:</strong>admin</h3>
-                <h3><strong>Clave:</strong>1234</h3>
-                <a href="../proyecto-f/front"><button class="btn btn-lg btn-block btn-primary">Ver Proyecto</button></a>
+                <p>Proyecto Full Stack desarrollado en php con conexion a base de datos para mostrar los paquetes turisticos</p>
+                <a href="front"><button class="btn btn-lg btn-block btn-primary">Ver Proyecto</button></a>
               </div>
             </div>
           </div>
@@ -47,11 +45,9 @@
           <div class="jumbotron bg-white">
             <div class="row">
               <div class="col-12">
-                <h3>Gestor de paquetes turisticos Laravel</h3>
-                <p>Proyecto Full Stack desarrollado en Laravel con panel de administrador, gestor de usuarios, permisos y ABM de paquetes turísticos.</p>
-                <h3><strong>Usuario:</strong>admin</h3>
-                <h3><strong>Clave:</strong>1234</h3>
-                <a href="sistema/public/index.php"><button class="btn btn-lg btn-block btn-primary">Proximamente!</button></a>
+                <h3>Aplicacion Angular</h3>
+                <p>template html, convertido en una aplicacion web con Angular y con conexion a base de datos firebase</p>
+                <a href="https://eg139.github.io/Portafolio-con-angular/#/home"><button class="btn btn-lg btn-block btn-primary">Ver Proyecto</button></a>
               </div>
             </div>
           </div>
