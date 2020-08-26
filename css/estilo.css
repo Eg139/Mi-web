@@ -75,7 +75,15 @@ font-size: 30px;
 }
 
 footer{
-  width: 100%; background-color: white !important;
+  padding-left: 50px;
+  width: 100%;
+  background-color: white;
+}
+#name{
+  margin-top: 30px;
+}
+#patrocinio{
+  margin-top: 30px;
 }
 
 i{
@@ -96,4 +104,8 @@ i{
 
 #olis a{
   color: white;
+}
+
+@media screen and (max-width:320)and(max-width:768px){
+  body{font-size:11px;}
 }

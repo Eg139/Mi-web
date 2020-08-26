@@ -13,4 +13,3 @@ $recipient = "eric.guzman.139@gmail.com";
 $mailheader = "From: $email \r\n ";
 mail($recipient, $asunto, $content, $mailheader) or die("Error!");
 echo "Email sent";
-?>
