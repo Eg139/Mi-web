@@ -3,7 +3,15 @@ background: url(../imagenes/ima.png) no-repeat center;
 background-size: 100%;
 background-attachment: cover;
 background-repeat: no-repeat;
-padding-bottom: 70px;
+}
+@media screen and (max-width:700px){
+  h1{
+    margin-top:0px!important;
+    font-size: 2em!important;
+  }
+  h2{
+    font-size: 1.8em!important;
+  }
 }
 
 .mod ul li a{
@@ -79,12 +87,6 @@ footer{
   width: 100%;
   background-color: white;
 }
-#name{
-  margin-top: 30px;
-}
-#patrocinio{
-  margin-top: 30px;
-}
 
 i{
   color: grey;
@@ -104,8 +106,4 @@ i{
 
 #olis a{
   color: white;
-}
-
-@media screen and (max-width:320)and(max-width:768px){
-  body{font-size:11px;}
 }

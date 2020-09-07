@@ -9,9 +9,9 @@
   <title>Home</title>
 </head>
 
-<body>
+<body class="header">
   <div class="container-fluid">
-    <header class="header">
+    <header >
 
       <?php include('header.php')
       ?>
